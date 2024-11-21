@@ -24,9 +24,7 @@ public class Student {
 
     }
 
-    Student(String name, String familia, double math, double economy, double Angl, double res) {
-        this(0, name, familia, 0, math, economy, Angl, res);
-    }
+   
 }
 
 
